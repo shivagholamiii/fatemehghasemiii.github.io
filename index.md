@@ -9,13 +9,13 @@
 + fatemehghasemi78780@gmail.com
 + Iran,Tehran province 
 
-### Skill Highlights
+Skill Highlights
 ---
 + Programming Languages (C++,C)
 + I have complete control over network plus
 + I have complete control over linux essential
 
-### Education
+Education
 ---
 + diploma: froq andishe High School
  -2017
@@ -26,14 +26,15 @@ Other Skills
 ---
 
 + Fluent in 1 Languages: English
-### Favorites
+Favorites
 ---
 + music 
 + swim
-### Working Experience
+Working Experience
 ---
 + Now i am a Bachelors students in computer Engineering 
-### Social Media
+Social Media
+
 + https://facebook.com/FatemehGhasemi 
 + https://Instagram.com/miss.f7420 
  
