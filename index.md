@@ -19,8 +19,8 @@
 ---
 + diploma: froq andishe High School
  -2017
-+ Bachelor of science: Computer Engineering
-  -2018, Payam Noor University of Tehran
++ Bachelor of science: Computer Engineering 
++  -2018, Payam Noor University of Tehran
 
  #### Other Skills
 ---
