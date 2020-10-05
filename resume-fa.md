@@ -1,9 +1,3 @@
----
-layout: rtl
-
-title: رزومه فارسی فاطمه قاسمی نیاسر 
----
-
 
 <div dir="rtl">
 <img src="pic.jpeg">
