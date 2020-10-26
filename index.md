@@ -29,7 +29,7 @@
 ### Other Skills
 
 
-+ Fluent in 1 Languages: English
++ Fluent in 2 Languages: English,persian
 
 ### Favorites
 
