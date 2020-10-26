@@ -29,7 +29,6 @@
 ### Other Skills
 
 
-
 + Fluent in 1 Languages: English
 
 ### Favorites
