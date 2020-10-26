@@ -55,5 +55,5 @@
 
 [رزومه فارسی](/resume-fa)
 
-<a href="https://karboom.io/resume/DrPegJb50XKb.html
+"https://karboom.io/resume/DrPegJb50XKb
 
