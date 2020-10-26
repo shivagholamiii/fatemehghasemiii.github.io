@@ -55,5 +55,5 @@
 
 [رزومه فارسی](/resume-fa)
 
-"https://karboom.io/resume/DrPegJb50XKb
+[دانلود رزومه]"https://karboom.io/resume/DrPegJb50XKb
 
