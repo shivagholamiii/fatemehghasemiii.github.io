@@ -39,6 +39,7 @@
 
 + music 
 + swim
++ book riding 
 
 ### Working Experience
 
