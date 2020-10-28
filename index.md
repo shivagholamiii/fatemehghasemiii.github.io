@@ -18,7 +18,7 @@
 + word
 + PowerPoint 
 + Excel
-+Photoshop
++ Photoshop
 
 
 ### Education
@@ -39,7 +39,7 @@
 
 + music 
 + swim
-+book riding 
++ book riding 
 
 ### Working Experience
 
