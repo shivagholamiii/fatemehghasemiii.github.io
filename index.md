@@ -15,8 +15,13 @@
 
 
 
-+ I have complete control over network plus
-+ I have complete control over linux essential
++ network plus
++ linux 
++ word
++ PowerPoint 
++ Excel
++Photoshop
+
 
 ### Education
 
