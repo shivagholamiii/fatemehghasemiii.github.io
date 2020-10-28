@@ -7,8 +7,6 @@
 + Birthdate 1999,11,9
 + Bachelor
 + Now i am a Bachelors students in computer Engineering
-+ Email 
-+ fatemehghasemi78780@gmail.com
 + Iran,Tehran province 
 
 ### Skill Highlights
@@ -52,7 +50,8 @@
 
 
 + https://facebook.com/FatemehGhasemi 
-+ https://Instagram.com/miss.f7420 
++ https://Instagram.com/miss.f7420
++ fatemehghasemi78780@gmail.com 
  
 
 
