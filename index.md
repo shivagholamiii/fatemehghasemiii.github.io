@@ -16,6 +16,7 @@
 + network plus
 + linux 
 + word
++ java script
 + PowerPoint 
 + Excel
 + Photoshop
