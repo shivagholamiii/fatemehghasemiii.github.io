@@ -1,5 +1,5 @@
 ### fatemehghasemi Niyasar
-<img src="pic.jpeg">
+<img src="pic.jpg">
 
 ### intro
 
