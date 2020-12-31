@@ -33,12 +33,12 @@
 
 + Teaching mental arithmetic with an abacus
 + fater academy
-
++ Internal management of the scientific academy
 ### Social Media
 
 
 + gholamishiva299@gmail.com 
- 
++ 09302495374 
 
 
 
