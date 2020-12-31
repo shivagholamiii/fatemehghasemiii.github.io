@@ -5,7 +5,6 @@
 
 
 + Birthdate 1997,7,2
-+ Bachelor
 + Now i am a Bachelors students in computer Engineering
 + Iran,Tehran province 
 
