@@ -12,8 +12,8 @@ icdl ، آفیس،فتوشاپ
  <br>
  دوره ها گواهینامه ها
  <br>
- + icdl 1  1393 دی
- + icdl 2 1393 شهریور
+ + icdl 1  
+ + icdl 2 
  <br>
  پست الکترونیک: ghlolamishiva299@gmail.com
  <br>
