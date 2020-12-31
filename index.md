@@ -34,6 +34,11 @@
 + Teaching mental arithmetic with an abacus
 + fater academy
 + Internal management of the scientific academy
+
+## Courses Certificates
++ icdl 1
++ icdl 2
+
 ### Social Media
 
 
