@@ -1,6 +1,6 @@
 
  <div dir="rtl">
- <img src="pic.jpeg">
+ <img src="pic.jpg">
  <br>
  درباره من
  <br>
